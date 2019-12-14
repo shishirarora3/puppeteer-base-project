@@ -1,0 +1,1 @@
+Flexbox - https://caniuse.com/#feat=flexbox,CSS Grid - https://caniuse.com/#feat=css-grid,WebP image format - https://caniuse.com/#feat=webp,CSS position:sticky - https://caniuse.com/#feat=css-sticky,CSS transforms - https://caniuse.com/#feat=transforms2d
